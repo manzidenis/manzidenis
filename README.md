@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges" align="center">
-    <a href="your-twitter-URL">
+    <a href="https://twitter.com/MANZIIDENIS?t=rbVSeMx5hEADYlSb3Egkog&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
   <img src="https://komarev.com/ghpvc/?username=manzidenis&style=flat-square&color=blue" alt=""/>
@@ -23,9 +23,9 @@ I am building my career in Software development from Rwanda.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I read tech articles.
+- :zap: In my free time, I read tech articles & football.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](your-twitter-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MANZIIDENIS?t=rbVSeMx5hEADYlSb3Egkog&s=09)
    
 ---
 
