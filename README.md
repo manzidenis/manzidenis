@@ -1,22 +1,12 @@
-<div id="header" align="center">
-  <div id="badges" align="center">
-    <a href="https://twitter.com/MANZIIDENIS?t=rbVSeMx5hEADYlSb3Egkog&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=manzidenis&style=flat-square&color=blue" alt=""/>
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-</div>
   
 ---
 
 ### :man_technologist: About Me :
-I am building my career in Software development from Rwanda.
+Software Developer
   
 - :telescope: I’m interested in working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -26,7 +16,15 @@ I am building my career in Software development from Rwanda.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MANZIIDENIS?t=rbVSeMx5hEADYlSb3Egkog&s=09)
    
+<div id="header" align="center">
+  <div id="badges" align="center">
+    <a href="https://twitter.com/MANZIIDENIS?t=rbVSeMx5hEADYlSb3Egkog&s=09">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=manzidenis&style=flat-square&color=blue" alt=""/>
+
 ---
+
 
 ### :hammer_and_wrench: Languages and Tools (Interested in) :
 <div>
@@ -49,8 +47,6 @@ I am building my career in Software development from Rwanda.
   
 ---
 
-### :fire: My Stats (So Far) :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manzidenis)](https://github.com/anuraghazra/github-readme-stats)  
   
   
   
